@@ -24,3 +24,6 @@ __Customer Segmentation:__ Analyze customer segments to tailor marketing and sal
 __Goal Tracking:__ Set and monitor sales goals to ensure that your team is aligned with organizational objectives. Track progress towards targets and celebrate achievements.
 
 __Mobile Compatibility:__ Access the dashboard on the go with mobile-friendly design, ensuring that you can stay informed even when away from your desk.
+
+# LOOKER STUDIO LINK:
+__[Sales Dashboard ](https://lookerstudio.google.com/reporting/a01fc5f2-ffdd-411a-b669-7168b17cad1d)__
